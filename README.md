@@ -1,0 +1,2 @@
+# ecommerce-homepage
+cc practicals
